@@ -12,7 +12,7 @@ Welcome to the Weather Forecaster! This is a modern web application built with R
 
 ## 🚀 Demo
 
-Check out the live demo [here](https://your-live-demo-link.com).
+Check out the live demo [here](https://rudra-weather-app.vercel.app).
 
 ## 🛠️ Installation and Setup
 
